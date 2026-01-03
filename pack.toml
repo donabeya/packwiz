@@ -1,0 +1,13 @@
+name = "donabeya"
+author = "donabe8898"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "d84bf9d8e6768022e366636c9aa7191a2760ecb0a310ac072ea1c9db648f88ed"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.213"
