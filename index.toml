@@ -55,6 +55,11 @@ hash = "09eca8aef96745c2f30d0536ed76904a2342a5f9cbe0745b62ce48f5e4666b4c"
 metafile = true
 
 [[files]]
+file = "mods/create-pantographs-and-wires.pw.toml"
+hash = "00d99d8341e59aaf5df7698a8602f4b087cd0d4ffc3373c7a827294d63fb4c9b"
+metafile = true
+
+[[files]]
 file = "mods/create-railways-navigator.pw.toml"
 hash = "36ca424432226ba50961b9a9a9e8a9b97e3a76763c9d82ce7c5492b0822cefc0"
 metafile = true
@@ -127,6 +132,11 @@ metafile = true
 [[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "11c4ac6932c14f3ad5a2c63d7f39eee1e9a2a91ffc079d5bd917c9aa381abdfb"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "0521ed2becdf2b460511c92e80e2702a4b6e540c85c99fb571844e1c7c505724"
 metafile = true
 
 [[files]]
