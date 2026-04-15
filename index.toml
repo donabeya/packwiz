@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "c2dd84ef73c28a07636d66038741ef3bce999a75f0c21e2b00e6fe2e9b51e931"
+
+[[files]]
 file = "mods/applied-energistics-2.pw.toml"
 hash = "afa4f499d946514c51f41f8f2202ac0946052b012570a210ebb31f0d0d627672"
 metafile = true
