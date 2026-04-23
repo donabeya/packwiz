@@ -1,13 +1,13 @@
 name = "Create: Escalated"
-filename = "escalated-1.1.0+create.6.0.6-mc.1.21.1-neoforge.jar"
+filename = "escalated-1.2.1+create.6.0.8-mc.1.21.1-neoforge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/LyOBYG8Q/versions/hFusQQIy/escalated-1.1.0%2Bcreate.6.0.6-mc.1.21.1-neoforge.jar"
+url = "https://cdn.modrinth.com/data/LyOBYG8Q/versions/6DNGSw3t/escalated-1.2.1%2Bcreate.6.0.8-mc.1.21.1-neoforge.jar"
 hash-format = "sha512"
-hash = "57fd3ef95a9b9ffdc97df80324662f631242cd8e41b68b184844388e60bfd215d539d989030470a7cc989ba0ca836f0e751384521946e923cda03250b95f374a"
+hash = "239a2622d660c0b268e8327749d81b3b692c2b418abe1b7269eca948f84c7dba80ee65d7c7f9df4815cf5029d2bed2f105c8f590ea48b23be19dd1d71181bec5"
 
 [update]
 [update.modrinth]
 mod-id = "LyOBYG8Q"
-version = "hFusQQIy"
+version = "6DNGSw3t"
