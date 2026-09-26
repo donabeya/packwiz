@@ -1,0 +1,13 @@
+name = "Create Aeronautics: Carworks"
+filename = "createaeronauticscarworks-0.1.0-BETA.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "54fe31c0e47f0d10233b78dae00f85e1fa0821b2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8454005
+project-id = 1614375

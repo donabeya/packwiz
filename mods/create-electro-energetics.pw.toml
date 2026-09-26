@@ -1,0 +1,13 @@
+name = "Create: Electro Energetics"
+filename = "electroenergetics-1.21.1-1.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f27cdd107debaeca9bfd11d1a7fba629ad76ede7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8974177
+project-id = 1443327
