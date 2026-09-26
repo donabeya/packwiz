@@ -31,7 +31,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-aeronautics-carworks.pw.toml"
-hash = "cb4e624f634583f189f7b9d31ca1352d49f1758335d31b744874f6bd7fd45d1a"
+hash = "f421d4c80aabed8e9c2d8945b8316608b856e9026d68673a9fcc4be6b2f6f030"
 metafile = true
 
 [[files]]
