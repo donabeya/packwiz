@@ -6,7 +6,7 @@ hash = "c2dd84ef73c28a07636d66038741ef3bce999a75f0c21e2b00e6fe2e9b51e931"
 
 [[files]]
 file = "mods/applied-energistics-2.pw.toml"
-hash = "afa4f499d946514c51f41f8f2202ac0946052b012570a210ebb31f0d0d627672"
+hash = "4b78352cbccdb3400530955a3e1271b2a60aec604e26e2ecdbf840faf0457d47"
 metafile = true
 
 [[files]]
@@ -21,7 +21,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "55dc9daeb96d489b32543035fb05379ba25d1305f0dcd1c42d9322e85e20402d"
+hash = "d31432b52be0a51900d7249d048968173616bab905c1810e8000b40489e68dd4"
 metafile = true
 
 [[files]]
@@ -40,8 +40,13 @@ hash = "efc272f326f72b54b8113a529ae3656b2dd6eff4529ad511733ea3bf2eaf4712"
 metafile = true
 
 [[files]]
+file = "mods/create-aeronautics-gadgets-and-gizmos.pw.toml"
+hash = "a4bf483a34cb7fa00c9e20345ea343126d256816ff6cb653431db9e858385d69"
+metafile = true
+
+[[files]]
 file = "mods/create-aeronautics.pw.toml"
-hash = "5c7981c5528038c31114f3d8afd4ccce72b3fdd7805773e31416c6a985da974a"
+hash = "efc9a3f8d4d0098687667f5ce7be29262202bcba23b0cec29811dcac1b0799fc"
 metafile = true
 
 [[files]]
@@ -66,7 +71,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-electro-energetics.pw.toml"
-hash = "5bde41bde8c905dc60a36f5e276ee659cf91725beeab0596ed2f3ee0b5187a3a"
+hash = "02681fd8d886a0bfb2b07a0aaf677b5af175a73e10dc40ec31dfff30861ab2ff"
 metafile = true
 
 [[files]]
@@ -77,6 +82,16 @@ metafile = true
 [[files]]
 file = "mods/create-jetpack.pw.toml"
 hash = "003a1ba71d0017c0e9db6ec860ac44775d6d691b7865c54db3bbb3a2af6b5e8f"
+metafile = true
+
+[[files]]
+file = "mods/create-railways-navigator.pw.toml"
+hash = "c4ff48d283c1ddc80738c21cd3f80895417f0f66b4f2dab332e9f0af178d1f11"
+metafile = true
+
+[[files]]
+file = "mods/create-tracks.pw.toml"
+hash = "6652073f815bed51608dc9d6a9e769ec783a131526054b35e8de6f47c8745fa2"
 metafile = true
 
 [[files]]
@@ -91,7 +106,7 @@ metafile = true
 
 [[files]]
 file = "mods/createaddition.pw.toml"
-hash = "f0e7bca98eed4c0747156c8dd9d59ec7e081bf1cb9b900f6139a72107a57f0eb"
+hash = "8913bb244d45ff085d444bd9c0ea236ffb3414a608554766140a208ac973a5a6"
 metafile = true
 
 [[files]]
@@ -100,8 +115,8 @@ hash = "6b6683fd8ec53d10d4fbef3b3d53922a1aaa8ef4d2e4b52bb819dc451f5d6b3d"
 metafile = true
 
 [[files]]
-file = "mods/drive-by-wire-with-sable.pw.toml"
-hash = "9cae535d0e517933a95ce8819a52f0bc603dab6924de89f65de22d180fa5d6fe"
+file = "mods/dragonlib.pw.toml"
+hash = "d864568b2c2985e825ffcb783990e4b45486ee9fefc69e45f9cacb47a1feb1a1"
 metafile = true
 
 [[files]]
@@ -131,7 +146,7 @@ metafile = true
 
 [[files]]
 file = "mods/gui-clock.pw.toml"
-hash = "02869b519bf4246e855e6ec3aa3737e063ec2ebbe0c63074007d837a0a455744"
+hash = "bf0f56d487cf62888e291cf5e75e8dee162686e7a4d5c4963066aa6473a37ae8"
 metafile = true
 
 [[files]]
@@ -141,7 +156,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-aircraft.pw.toml"
-hash = "ed87af3653fd9e0edbf84a4abe15826fe45ecd4b8ad8a8cc65ed587f3385b70c"
+hash = "b59da6b02e57bc248b93e9fb5d96e87c37cba57ca4ab8a88ec52a0fd55781da6"
 metafile = true
 
 [[files]]
@@ -156,12 +171,12 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "47c701c67e70b60b3a71c9ec4aff707ea0411f033024730b1ca0567b8526a824"
+hash = "f45960e78cdfe0d4ffe832cc289f81221b1e453dc47dfaee72502bda84cded26"
 metafile = true
 
 [[files]]
 file = "mods/just-enough-mekanism-multiblocks.pw.toml"
-hash = "0c050fc4c9d43111d75022f5bdc1c1229a432c256749de28cb1d1c33f9bc06b2"
+hash = "df8734def5da91f5e78c468e41e64e32a54c504a006d3bb5615e789c325219a3"
 metafile = true
 
 [[files]]
@@ -176,7 +191,7 @@ metafile = true
 
 [[files]]
 file = "mods/ldlib.pw.toml"
-hash = "add65f8e2180439bc7da2c1be05fe509a8205b9da7a36f375e12c1454006448f"
+hash = "4440530ac68c43d44b4b6459647ea4d24af38b5c601c0af773c3ef7f6fafc7ac"
 metafile = true
 
 [[files]]
@@ -206,12 +221,12 @@ metafile = true
 
 [[files]]
 file = "mods/mezzconfig.pw.toml"
-hash = "dd3830820c683676dd7e37cbbe906f3b1449f9d3825d8fbcfd148766c073eae5"
+hash = "7cc4b699a816b1dcee290ceb5951f404079edfefd0dd844955056fbf93b82629"
 metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "1813b429f0782edb4d0c428f00da0c760acea32ede566656588af99c6ad10a11"
+hash = "45ce987bba32274bfd0b34a592cc185b22a35befbbedd98c49a86093179aa523"
 metafile = true
 
 [[files]]
@@ -231,7 +246,7 @@ metafile = true
 
 [[files]]
 file = "mods/prometheus-exporter.pw.toml"
-hash = "4033f9d39c46d85f9ba0dbef78a11d809af83cc1046c362b05aa5d04ea35b6a5"
+hash = "2356d493ae2ab9cd519462f9394de539b216d36a782d5433e65e929ea7927947"
 metafile = true
 
 [[files]]
@@ -246,7 +261,7 @@ metafile = true
 
 [[files]]
 file = "mods/sable.pw.toml"
-hash = "f21e2db6083eb58ee1b96630cf345c38ee7b93296da7990f27155480f3f2b6e1"
+hash = "f2c81cf494b7b6c1063563d7377224cf64b29e0b86bcf87bcf4da8eb79b9c800"
 metafile = true
 
 [[files]]
@@ -266,5 +281,5 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "72f10bccb7f9767b2a731dda29aaeacdd4671971e8adaebe8840be9ca0090c31"
+hash = "70e12b988f0efd4df56597d3f37fe37608584b876ff3e713e4f5d966a37a4a25"
 metafile = true
