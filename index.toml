@@ -21,7 +21,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "d31432b52be0a51900d7249d048968173616bab905c1810e8000b40489e68dd4"
+hash = "eaecaac2e504c8aa5e04ea5bc4719aa3e630a11092447237730c8ca1078abbc6"
 metafile = true
 
 [[files]]
@@ -41,7 +41,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-aeronautics-gadgets-and-gizmos.pw.toml"
-hash = "a4bf483a34cb7fa00c9e20345ea343126d256816ff6cb653431db9e858385d69"
+hash = "df71299f14b314ab7de76eb01d427ed487d17e1e1f01cd5cb23e28b4b3976dd9"
 metafile = true
 
 [[files]]
@@ -71,7 +71,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-electro-energetics.pw.toml"
-hash = "02681fd8d886a0bfb2b07a0aaf677b5af175a73e10dc40ec31dfff30861ab2ff"
+hash = "d36082d1f7e4b37fca35137e39bed198a9cf60e33817b0d2b82b37c503f19b78"
 metafile = true
 
 [[files]]
@@ -171,7 +171,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "f45960e78cdfe0d4ffe832cc289f81221b1e453dc47dfaee72502bda84cded26"
+hash = "50109154721adb4a72b7f2d034b1839aea2221d84bce2c40a6dfd98368363716"
 metafile = true
 
 [[files]]
