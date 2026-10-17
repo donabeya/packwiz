@@ -21,7 +21,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "eaecaac2e504c8aa5e04ea5bc4719aa3e630a11092447237730c8ca1078abbc6"
+hash = "be105c265960216fc018efeb6e13262f3f40b35f21d8bb892a298d236e2ef7ec"
 metafile = true
 
 [[files]]
@@ -41,7 +41,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-aeronautics-gadgets-and-gizmos.pw.toml"
-hash = "df71299f14b314ab7de76eb01d427ed487d17e1e1f01cd5cb23e28b4b3976dd9"
+hash = "0bb2a71af8fdd9ea78e67867024ecfdcb7b697b948778a383b924b2d5c7934eb"
 metafile = true
 
 [[files]]
