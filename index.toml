@@ -20,6 +20,11 @@ hash = "86cf2ae835b8f3d981af2e88a4d19fdc3dc4f5aa3904c6ba30e25d77d3e9fcbb"
 metafile = true
 
 [[files]]
+file = "mods/camera-mod.pw.toml"
+hash = "ea66cd2caa9bbc2adb768f142bf717e0845ba33815f828daa26b10c543dd86db"
+metafile = true
+
+[[files]]
 file = "mods/collective.pw.toml"
 hash = "be105c265960216fc018efeb6e13262f3f40b35f21d8bb892a298d236e2ef7ec"
 metafile = true
