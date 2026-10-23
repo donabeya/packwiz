@@ -65,6 +65,11 @@ hash = "3b1b6163af92aa709dbc1800f76654db759a6ae590a6dd1858509138e1a70d6c"
 metafile = true
 
 [[files]]
+file = "mods/create-diesel-generators.pw.toml"
+hash = "c12d2dc7c116f12a8f321b1c5fcd3a0231eb06dcebfe4e08231b91c915abc337"
+metafile = true
+
+[[files]]
 file = "mods/create-electro-energetics.pw.toml"
 hash = "d36082d1f7e4b37fca35137e39bed198a9cf60e33817b0d2b82b37c503f19b78"
 metafile = true
