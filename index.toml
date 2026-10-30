@@ -90,6 +90,11 @@ hash = "c4ff48d283c1ddc80738c21cd3f80895417f0f66b4f2dab332e9f0af178d1f11"
 metafile = true
 
 [[files]]
+file = "mods/create-station-voices.pw.toml"
+hash = "65c53064de66bd9282072c313e1ca266598c5aec7b777f6cffaf081a30e832d5"
+metafile = true
+
+[[files]]
 file = "mods/create-tracks.pw.toml"
 hash = "6652073f815bed51608dc9d6a9e769ec783a131526054b35e8de6f47c8745fa2"
 metafile = true
@@ -257,6 +262,11 @@ metafile = true
 [[files]]
 file = "mods/sable.pw.toml"
 hash = "f2c81cf494b7b6c1063563d7377224cf64b29e0b86bcf87bcf4da8eb79b9c800"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat-radio-station.pw.toml"
+hash = "64d2564459c92b40bad5b2a660d86c73bd8c995491d501778361de0552c02382"
 metafile = true
 
 [[files]]
