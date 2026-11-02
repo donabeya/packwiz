@@ -150,6 +150,11 @@ hash = "dd0153bc05a3ffc8592dfaf35b4e8014127e6e1b352d7c18462d49a1ed7a5035"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "4cf7eb494f48576e28895ee5f362878f95c6bad65372666106140fdae82d0c4c"
+metafile = true
+
+[[files]]
 file = "mods/gui-clock.pw.toml"
 hash = "d6065bbe02c146366c8ed8ceb5cbdb21266ee2a73c898fdb1d7bb12cbcdcbae4"
 metafile = true
@@ -237,6 +242,11 @@ metafile = true
 [[files]]
 file = "mods/ping-wheel.pw.toml"
 hash = "fc58a3e283c0769d6861b3d07c0a919ba8a35dbca9fa040fbb574a1f5d7bad1a"
+metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "5b30dafc9e96471978376ee010cec0ddf592377ac94192c9370cb37973e1e95f"
 metafile = true
 
 [[files]]
