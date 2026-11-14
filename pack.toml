@@ -1,13 +1,13 @@
-name = "donabeya"
-author = "donabe8898"
-version = "1.0.0"
+name = "ANNEX3.0"
+author = "donabe"
+version = "0.9.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "43c4d9ed7c3f1c00a896980f9836a1438846f13c5e6b06f70758b7f2a5a0d848"
+hash = "516e765b7e428a33eefaf3aa9832aaca712215f9618e9cfa0186a15404709230"
 
 [versions]
 minecraft = "1.21.1"
-neoforge = "21.1.228"
+neoforge = "21.1.262"

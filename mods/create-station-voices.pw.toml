@@ -1,0 +1,13 @@
+name = "Create: Station Voices"
+filename = "create_station_voices-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9d61b93fb931e9fe907be74bb28fdc438e796a95"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9207198
+project-id = 1666057

@@ -1,13 +1,13 @@
 name = "GUI Clock"
-filename = "guiclock-1.21.1-4.7.jar"
-side = "both"
+filename = "guiclock-1.21.1-5.0.jar"
+side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "d3834b97b550ecae3a5f738f4c40e48dca9884fb"
+hash = "c0e72b98499251a14a62d6e41fc804f4904fbc46"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 6225063
+file-id = 9278501
 project-id = 347529

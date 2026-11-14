@@ -1,0 +1,13 @@
+name = "Simple Voice Radio Station"
+filename = "simple_radio_station-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "02e11edb67824c10e119b807720af1356085c9a5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9204551
+project-id = 1747398
